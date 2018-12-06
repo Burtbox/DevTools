@@ -88,3 +88,5 @@ choco install firefox -y
 
 choco install slack -y
 choco install screenpresso -y
+
+Write-Host "Ding!"
